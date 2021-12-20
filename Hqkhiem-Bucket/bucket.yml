@@ -2,5 +2,7 @@ flows:
   36d4cf02-3df1-48c9-9db7-068f8088ae27: {ver: 1, file: test01.snapshot, comments: change
       concurrent 99, author: anonymous, created: 1639989161739, flowName: test01,
     flowDesc: ''}
+  dcc632c2-0b5f-4e9f-9d6b-41f46efb73f1: {ver: 1, file: test02.snapshot, comments: test,
+    author: anonymous, created: 1639990487365, flowName: test02, flowDesc: ''}
 layoutVer: 1
 bucketId: bbd15be6-09b5-4516-88c0-b056368557ca
