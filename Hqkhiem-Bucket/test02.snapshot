@@ -221,7 +221,7 @@
             "y" : 228.99999247959676
           },
           "properties" : {
-            "MAX_ASYNC_REQUESTS" : "98",
+            "MAX_ASYNC_REQUESTS" : "97",
             "BATCH_INTERVAL" : "10 ms",
             "COMPRESSION_TYPE" : "NONE",
             "PULSAR_CLIENT_SERVICE" : "3b2cfdf0-4fa4-37b6-8311-ae5d0b7bde16",
