@@ -231,7 +231,7 @@
             "PENDING_MAX_MESSAGES" : "1000",
             "TOPIC" : "persistent://public/default/a_topic_5",
             "ASYNC_ENABLED" : "false",
-            "BATCHING_ENABLED" : "false"
+            "BATCHING_ENABLED" : "true"
           },
           "propertyDescriptors" : {
             "MAX_ASYNC_REQUESTS" : {
