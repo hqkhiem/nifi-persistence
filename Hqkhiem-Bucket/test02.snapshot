@@ -39,7 +39,7 @@
             "comments" : "",
             "groupId" : "7e3b2fa9-a0e7-3f42-a2b0-b6d213708d2c",
             "id" : "54630e92-cb64-3b98-bdaf-adf294bc7246",
-            "name" : "PublishPulsar",
+            "name" : "PublishPulsar_test",
             "type" : "PROCESSOR"
           },
           "zIndex" : 0
@@ -52,7 +52,7 @@
             "comments" : "",
             "groupId" : "7e3b2fa9-a0e7-3f42-a2b0-b6d213708d2c",
             "id" : "54630e92-cb64-3b98-bdaf-adf294bc7246",
-            "name" : "PublishPulsar",
+            "name" : "PublishPulsar_test",
             "type" : "PROCESSOR"
           },
           "flowFileExpiration" : "0 sec",
@@ -99,7 +99,7 @@
             "comments" : "",
             "groupId" : "7e3b2fa9-a0e7-3f42-a2b0-b6d213708d2c",
             "id" : "54630e92-cb64-3b98-bdaf-adf294bc7246",
-            "name" : "PublishPulsar",
+            "name" : "PublishPulsar_test",
             "type" : "PROCESSOR"
           },
           "zIndex" : 0
@@ -214,7 +214,7 @@
           "executionNode" : "ALL",
           "groupIdentifier" : "7e3b2fa9-a0e7-3f42-a2b0-b6d213708d2c",
           "identifier" : "54630e92-cb64-3b98-bdaf-adf294bc7246",
-          "name" : "PublishPulsar",
+          "name" : "PublishPulsar_test",
           "penaltyDuration" : "30 sec",
           "position" : {
             "x" : 647.999990408761,
